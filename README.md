@@ -26,13 +26,13 @@ Validações para as operações deverão ser consideradas na implementação do
 - https://flask.palletsprojects.com
 
 # Criado por
-- Alaíde Lima
+- Alaíde Lima <div>
 [GitHub](https://github.com/AlaideLima) <div>
 [LinkedIn](https://www.linkedin.com/in/alaide-lima-706b51200/)
-- Álvaro Brayner
+- Álvaro Brayner <div>
 [GitHub](https://github.com/alvarobrayner) <div>
 [LinkedIn](https://www.linkedin.com/in/alvarobrayner/)
-- Ana Azevedo
+- Ana Azevedo <div>
 [GitHub](https://github.com/anaazevedoferreira) <div>
 [LinkedIn](https://www.linkedin.com/in/ana-azevedo-arquiteta/)
 
